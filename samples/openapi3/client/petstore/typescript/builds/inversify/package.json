@@ -31,13 +31,13 @@
     "prepare": "npm run build"
   },
   "dependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.13",
     "@types/node-fetch": "^2.5.7",
     "@types/node": "*",
-    "form-data": "^2.5.0",
+    "form-data": "^2.5.5",
     "inversify": "^5.0.1",
     "es6-promise": "^4.2.4",
-    "url-parse": "^1.4.3"
+    "url-parse": "^1.5.10"
   },
   "devDependencies": {
     "typescript": "^4.0",
