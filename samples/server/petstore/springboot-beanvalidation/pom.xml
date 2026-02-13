@@ -10,7 +10,7 @@
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <springfox.version>2.9.2</springfox.version>
+        <springfox.version>2.10.5</springfox.version>
     </properties>
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -61,7 +61,7 @@
         <dependency>
             <groupId>org.openapitools</groupId>
             <artifactId>jackson-databind-nullable</artifactId>
-            <version>0.2.6</version>
+            <version>0.2.9</version>
         </dependency>
         <!-- Bean Validation API support -->
         <dependency>

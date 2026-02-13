@@ -239,7 +239,7 @@ for this project used jakarta.validation-api -->
     <dependency>
       <groupId>org.openapitools</groupId>
       <artifactId>openapi-generator</artifactId>
-      <version>7.2.0-SNAPSHOT</version>
+      <version>7.2.0</version>
     </dependency>
   </dependencies>
   <repositories>
@@ -262,10 +262,10 @@ for this project used jakarta.validation-api -->
     <java.version>1.8</java.version>
     <maven.compiler.source>${java.version}</maven.compiler.source>
     <maven.compiler.target>${java.version}</maven.compiler.target>
-    <swagger-core-version>1.5.18</swagger-core-version>
+    <swagger-core-version>1.5.24</swagger-core-version>
     <jetty-version>9.2.9.v20150224</jetty-version>
     <beanvalidation-version>2.0.2</beanvalidation-version>
-    <cxf-version>3.3.0</cxf-version>
+    <cxf-version>3.6.9</cxf-version>
     <jackson-jaxrs-version>2.15.2</jackson-jaxrs-version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
