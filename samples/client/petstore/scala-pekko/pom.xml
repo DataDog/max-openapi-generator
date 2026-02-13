@@ -18,10 +18,10 @@
     <scala.version>2.13.12</scala.version>
     <json4s.jackson.version>4.0.7</json4s.jackson.version>
     <json4s.ext.version>4.0.7</json4s.ext.version>
-    <pekko.version>1.0.2</pekko.version>
-    <pekko.http.version>1.0.0</pekko.http.version>
-    <typesafeconfig.version>1.4.3</typesafeconfig.version>
-    <pekko.http.json4s.version>2.3.2</pekko.http.json4s.version>
+    <pekko.version>1.0.3</pekko.version>
+    <pekko.http.version>1.0.1</pekko.http.version>
+    <typesafeconfig.version>1.4.5</typesafeconfig.version>
+    <pekko.http.json4s.version>2.3.4</pekko.http.json4s.version>
     <scala.test.version>3.2.17</scala.test.version>
     <scala.test.plus.version>3.2.17.0</scala.test.plus.version>
 
