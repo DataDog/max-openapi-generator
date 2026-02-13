@@ -32,9 +32,9 @@
     "prepare": "npm run build"
   },
   "dependencies": {
-    "whatwg-fetch": "^3.0.0",
+    "whatwg-fetch": "^3.6.20",
     "es6-promise": "^4.2.4",
-    "url-parse": "^1.4.3"
+    "url-parse": "^1.5.10"
   },
   "devDependencies": {
     "typescript": "^4.0",
