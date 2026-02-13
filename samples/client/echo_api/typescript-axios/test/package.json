@@ -2,13 +2,13 @@
   "private": true,
   "dependencies": {
     "@openapitools/typescript-axios-echo-api": "file:../build",
-    "@types/chai": "^4.3.0",
-    "@types/mocha": "^10.0.0",
-    "@types/node": "^16.6.2",
-    "chai": "^4.3.0",
-    "mocha": "^10.2.0",
-    "ts-node": "^10.9.0",
-    "typescript": "^5.2.2"
+    "@types/chai": "^4.3.20",
+    "@types/mocha": "^10.0.10",
+    "@types/node": "^16.18.126",
+    "chai": "^4.5.0",
+    "mocha": "^10.8.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
   },
   "scripts": {
     "preinstall": "npm --prefix ../build install && npm run build",

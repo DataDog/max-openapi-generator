@@ -12,13 +12,13 @@
     "npm": ">=5.6.0"
   },
   "dependencies": {
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "zapier-platform-core": "15.5.1",
-    "form-data": "^4.0.0"
+    "form-data": "^4.0.5"
   },
   "devDependencies": {
-    "mocha": "^10.2.0",
-    "should": "^13.2.0"
+    "mocha": "^10.8.2",
+    "should": "^13.2.3"
   },
   "private": true,
   "zapier": {
