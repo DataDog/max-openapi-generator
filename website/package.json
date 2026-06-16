@@ -19,7 +19,7 @@
     "classnames": "^2.2.6",
     "js-yaml": "^3.12.0",
     "lodash.merge": "^4.6.2",
-    "lodash.template": "^4.5.0",
+    "lodash.template": "^4.18.1",
     "prism-react-renderer": "^1.0.2",
     "react": "^16.10.2",
     "react-dom": "^16.10.2"
@@ -35,5 +35,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "resolutions": {
+    "minimatch": "^3.1.5",
+    "path-to-regexp": ">=0.1.13",
+    "ws": "^8.21.0",
+    "body-parser": "^1.20.5"
   }
 }
