@@ -32,5 +32,19 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "overrides": {
+    "webpack": {
+      "loader-utils": "^1.4.2"
+    },
+    "raw-loader": {
+      "loader-utils": "^1.4.2"
+    },
+    "ts-loader": {
+      "loader-utils": "^1.4.2"
+    },
+    "webpack-cli": {
+      "loader-utils": "^1.4.2"
+    }
+  }
 }
